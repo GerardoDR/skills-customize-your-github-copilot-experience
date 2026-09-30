@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-task-manager",
+      "title": "Task Manager with SQLite",
+      "description": "Build a command-line task manager that stores tasks in SQLite using Python's standard library.",
+      "path": "assignments/sqlite-task-manager",
+      "dueDate": "2026-10-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
